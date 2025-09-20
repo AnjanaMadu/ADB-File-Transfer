@@ -31,7 +31,7 @@ A user-friendly CLI tool for copying files from your Android phone to PC using A
 
 3. **Download the tool**:
    ```bash
-   wget https://raw.githubusercontent.com/AnjanaMadu/ADB-File-Transfer/adbcopy.py
+   wget https://github.com/AnjanaMadu/ADB-File-Transfer/raw/refs/heads/main/adbcopy.py
    # or download manually and save as adbcopy.py
    ```
 
